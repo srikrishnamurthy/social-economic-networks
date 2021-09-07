@@ -202,13 +202,13 @@
 ## Summary
 * Strategic models: choice based formation, welfare analysis 
 * Formation:
-* Pairwise stability
+  * Pairwise stability
 * Welfare
-* Pareto efficiency, utilitarian measure/efficiency 
+  * Pareto efficiency, utilitarian measure/efficiency 
 * Tension: stable and efficient networks need not coincide 
-* Positive externalities - under-connected
-* Negative externalities - over connected
-* Transfers cannot always help 
+  * Positive externalities - under-connected
+  * Negative externalities - over connected
+  * Transfers cannot always help 
 * Small worlds: low costs of local links gives clustering 
-* High benefits from distance links give short paths
-* Adding heterogeneity can lead to estimable models 
+  * High benefits from distance links give short paths
+* Adding heterogeneity can lead to estimable models
