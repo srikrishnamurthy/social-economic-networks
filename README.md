@@ -1,5 +1,5 @@
 # social-economic-networks
-Notes on Social and Economic Networks
+Notes on Social and Economic Networks from Matthew O. Jackson's MOOC
 
 [Unit 1: Introduction, Empirical Background and Definitions](unit1.md)
 
